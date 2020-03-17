@@ -1,0 +1,58 @@
+/*  Start Header */
+header {
+    min-height: 220px;
+    box-shadow: 0px 0px 7px 0px #434343;
+    color: #fff;
+    font-size: 1rem;
+}
+#first-line {
+    min-height: 50px;;
+    background-color: #434343;
+    
+
+}
+
+#second-line {
+    min-height: 100px;
+    background: #363636;
+}
+
+.covercart {
+    border: 1px solid #808080;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 1rem;
+}
+.bottom-active {
+    background: #d58e32;
+    border: 2px solid #363636;
+    border-radius: 4px;
+    margin: 3px;
+    height: 32px;
+}
+nav a {
+    color: #000;
+}
+.center {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+.left {
+    text-align: left;
+}
+/*  End Header */
+
+/*  Start Footer */
+.first-footer-line {
+    min-height: 50px;
+    box-shadow: 0px 0px 7px 0px #434343;
+}
+
+.second-footer-line {
+    min-height: 200px;
+    background: #363636;
+}
+
+

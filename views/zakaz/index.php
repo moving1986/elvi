@@ -1,4 +1,4 @@
 <?php include ROOT.'/views/layouts/header.php'; ?>
-<p>About us</p>
+<h1>Эта страница индивидуального заказа товара</h1>
 
 <?php include ROOT.'/views/layouts/footer.php'; ?>
